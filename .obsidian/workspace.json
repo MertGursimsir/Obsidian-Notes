@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "2916e15643a63027",
+    "type": "split",
+    "children": [
+      {
+        "id": "95526221c86519f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a89136d047359765",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C BUILD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C BUILD"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2afb6bead3bfbd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ce1473942a150c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fbbd97cfe6c35ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6da3b7683ef981c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "502d6a11e2766d17",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8228a6223948acd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c8bc25a4b563193",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2aabed3e0f477eb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C BUILD.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for C BUILD"
+            }
+          },
+          {
+            "id": "c4b1ab94ae218475",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C BUILD.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from C BUILD"
+            }
+          },
+          {
+            "id": "dc3b43abfc492667",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b43700c95844ebf7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C BUILD.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of C BUILD"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a89136d047359765",
+  "lastOpenFiles": [
+    "C BUILD.md"
+  ]
+}
