@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "168839380cc26d73",
+    "type": "split",
+    "children": [
+      {
+        "id": "25a4e5c546e914fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e72e50a3d8b96b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 Notes/PYTHON.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PYTHON"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b98fdcb45da8c07",
+    "type": "split",
+    "children": [
+      {
+        "id": "519a0599f4f60324",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b24f992ca8ef6cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a05153ac538789e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f60d86d1bfcba177",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.5
+  },
+  "right": {
+    "id": "08cc338f7ae15028",
+    "type": "split",
+    "children": [
+      {
+        "id": "dae7aa242631fcb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d1e78dd3fce3187",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "001 Notes/Komutlar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Komutlar için geri bağlantılar"
+            }
+          },
+          {
+            "id": "eeec317b1bdb404e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "001 Notes/Komutlar.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Komutlar'dan giden bağlantılar"
+            }
+          },
+          {
+            "id": "faf1297e07800856",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiketler"
+            }
+          },
+          {
+            "id": "4e1e7bde7ada51b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "001 Notes/Komutlar.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Komutlar ana hatları"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1e72e50a3d8b96b9",
+  "lastOpenFiles": [
+    "001 Notes/DNS.md",
+    "001 Notes/PYTHON.md",
+    "002 CMake/M5 CONTROL FLOW, FUNCTION, MACRO, SCOPE, LISTFILE.md",
+    "002 CMake/M6 CACHE VARIABLES.md",
+    "002 CMake/M4 VARIABLES, LISTS, STRINGS.md",
+    "002 CMake/M3 MANAGE PROJECT FILES & FOLDERS USING SUBDIRS.md",
+    "002 CMake/M2 BUILDING FIRST TARGET.md",
+    "002 CMake/M9 LINKING EXTERNAL LIBRARIES.md",
+    "002 CMake/M1 INTRO.md",
+    "002 CMake/M8 TIPS & FAQS.md",
+    "002 CMake/M7 INSTALLING AND EXPORTING PACKAGE (EXTERNAL LIBS).md",
+    "000 JUnit/JUnit.md",
+    "Pasted image 20251006145447.png",
+    "Pasted image 20251006144412.png",
+    "Pasted image 20251006144053.png",
+    "Pasted image 20251006144014.png",
+    "Pasted image 20251006143747.png",
+    "Pasted image 20251006143132.png",
+    "Pasted image 20251006142545.png",
+    "Pasted image 20251006142542.png",
+    "Pasted image 20251006140622.png",
+    "Pasted image 20251006134530.png",
+    "001 Notes/KOMUTLAR.md",
+    "001 Notes/PATHLER.md",
+    "002 CMake/Untitled",
+    "Başlangıç.md",
+    "001 Notes/JENKINS.md",
+    "002 CMake",
+    "001 Notes/C.md",
+    "001 Notes/OPTIMIZING DB.md",
+    "001 Notes/htop.md",
+    "001 Notes/DISK.md",
+    "001 Notes/CMAKE.md",
+    "001 Notes/HAP BİLGİ.md",
+    "001 Notes/KODLAMA.md",
+    "Başlıksız.md",
+    "001 Notes/HATALAR.md",
+    "list-style.css",
+    "001 Notes",
+    "2025-04-08.md",
+    "Başlıksız.canvas",
+    "000 JUnit"
+  ]
+}

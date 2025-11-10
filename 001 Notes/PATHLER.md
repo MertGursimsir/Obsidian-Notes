@@ -1,0 +1,13 @@
+- ~/.ssh/authorized_keys --> public keys
+- /etc/group --> gruplar
+- /etc/passwd --> kullanıcılar
+- /etc/X11/default-display-manager --> display manageri gösterir
+- apt-get update
+	- downloads latest package metadata
+	- stored at /var/lib/apt/lists
+		- each file here corresponds to section of a package repository
+	- apt list --> view all available packages
+	- apt list --upgradable
+	- apt-cache search PACKAGENAME = apt list | grep PACKAGENAME
+	- apt-cache policy PACKAGENAME
+- ~/.ssh/authenticated_keys --> public keys

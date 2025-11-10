@@ -1,0 +1,6 @@
+ul {
+  list-style-type: disc; /* her zaman küçük daire yapar */
+}
+ul ul {
+  list-style-type: circle; /* alt listeler için farklı */
+}
