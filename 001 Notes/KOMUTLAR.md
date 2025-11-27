@@ -107,8 +107,8 @@
 - xdg-open PATH
 	- Path'in directorysini açar.
 
-- docker load < FILE.tar
-- docker save busybox > busybox.tar
-
 - jobs
 	- Then you can "kill %1" or "kill %2" the processes that you see as output of jobs
+
+- os versiyon:
+	cat /etc/os-release
