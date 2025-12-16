@@ -112,3 +112,9 @@
 
 - os versiyon:
 	cat /etc/os-release
+
+- Dosyayı parçalara bölmek
+	split -b 2G bigfile.tar bigfile.tar.part_
+- Parçaları birleştirmek
+	cat bigfile.tar.part_* > bigfile.tar
+
