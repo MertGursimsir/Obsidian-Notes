@@ -46,3 +46,9 @@ Hooks are expected to validate, not mutate.
 
 
 `prefetch_count=3` sets a **limit** of "3 unacknowledged messages max" **per consumer**.
+
+
+If user has root privileges but cant run sudo:
+	su -
+	usermod -aG sudo mert
+
