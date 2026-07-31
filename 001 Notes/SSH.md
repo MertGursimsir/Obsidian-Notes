@@ -7,7 +7,7 @@ authorized_keys: Bana kimler girebilir? (Gelen istemciyi doğrular)
     - public key'in o dosyadaysa sunucu sana matematiksel bulmaca gönderir
     - private key ile bulmacayı çözüp gönderirsin
 
-    - bu dosyada oksan key ile bağlanamazsın, kullanıcı adı ve şifre ister
+    - bu dosyada yoksan key ile bağlanamazsın, kullanıcı adı ve şifre ister
 
 known_hosts: Ben doğru yere mi bağlanıyorum? (Gidilen sunucuyu doğrular)
     - clientta bulunur
